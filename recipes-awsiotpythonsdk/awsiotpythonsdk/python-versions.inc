@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python-awsiotpythonsdk = "1.4.7"
